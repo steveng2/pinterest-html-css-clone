@@ -20,4 +20,35 @@
 }
 #nav-buttons { margin-left: 5px;
                margin-right: 2.5px;
+               color: #bababa;
+               text-decoration: none;
+               font-size: 1.9em;
+}
+
+/* column and wrapper styles  */
+
+#wrapper { width: 100%;
+          margin: 50px auto;
+}
+
+#column { display: flex;
+          flex-wrap: wrap;
+
+}
+
+.holder { display: inline;
+          width: 400px;
+}
+
+.holder img {
+    width: 100%;
+    border-bottom: 3px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+}
+
+.holder p {
+    font: 12px/18px Arial, sans-serif;
+    color: #333;
+    margin: 0;
 }
