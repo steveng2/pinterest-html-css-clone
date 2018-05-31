@@ -1,1 +1,23 @@
+#header ul { display: flex;
+             padding: 2px;
+             background-color: white;
+             color: #a1a1a1;
+             margin-bottom: -20px;
+             border-bottom: 1px solid #f4f4f4;
+             height: 55px;
+}
 
+#search-box { width: 950px;
+              margin-top: 5px;
+}
+
+
+#logo img{ width: 30px;
+           height: 30px;
+}
+#header #nav-buttons { padding-left: 3px;
+                       margin-top: 5px;
+}
+#nav-buttons { margin-left: 5px;
+               margin-right: 2.5px;
+}
